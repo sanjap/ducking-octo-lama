@@ -7,3 +7,5 @@ Here I can write some text about something to do with project.
 Here is some more about the project.
 
 and here it is
+
+and here is another commit
